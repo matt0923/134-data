@@ -2,7 +2,7 @@
     "projects": [
           {
         "title": "About Me", 
-        "img-src": "https://pub-466fc3a931564b4a9314c6dd67100395.r2.dev/giraffe.jpg" 
+        "img-src": "https://pub-466fc3a931564b4a9314c6dd67100395.r2.dev/giraffe.jpg", 
         "img-alt": "About me picture (of giraffe)", 
         "description": "My name is Matthew Williams, a software engineering major at the University of California, San Diego, where I am hoping to graduate by December. I will then look for a job to apply what I learned during my time here at UCSD, hopefully on a large project I am interested in/subject I am passionate about. The link below the image of my favorite animal (the Giraffe) should bring you to my linkedin to learn more about who I am professionally. ", 
         "link": "https://www.linkedin.com/in/matthew-williams-4337942b6/"
