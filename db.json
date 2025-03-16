@@ -5,21 +5,21 @@
         "img-src": "giraffe.jpg",
         "img-alt": "About me picture (of giraffe)",
         "description": "Lorem ipsum dolor sit amet, ...",
-        "link": "https://www.linkedin.com/in/yourprofile/"
+        "link": "https://www.linkedin.com/in/matthew-williams-4337942b6/"
       },
       {
         "title": "Hobbies/Interests",
-        "img-src": "weights.jpg",
+        "img-src": "landscapewidemobile3x-stock-weights-169.jpg",
         "img-alt": "Picture of weights",
         "description": "Lorem ipsum dolor sit amet, ...",
-        "link": "https://example.com/"
+        "link": "https://ucsd.edu/"
       },
       {
         "title": "Featured Project",
-        "img-src": "project.jpg",
+        "img-src": "ss.png",
         "img-alt": "Screenshot of My Featured Project",
         "description": "Lorem ipsum dolor sit amet, ...",
-        "link": "https://github.com/yourrepo"
+        "link": "https://github.com/cse110-sp24-group12/cse110-sp24-group12"
       }
     ]
   }
